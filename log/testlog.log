@@ -359,3 +359,7 @@
 2022-10-30 14:39:11,695 - BaseClass -INFO - Username is entered
 2022-10-30 14:39:11,773 - BaseClass -INFO - Password is entered
 2022-10-30 14:39:12,788 - BaseClass -INFO - Test case is passed
+2022-11-01 21:10:50,086 - BaseClass -INFO - URL is opened
+2022-11-01 21:10:50,187 - BaseClass -INFO - Username is entered
+2022-11-01 21:10:50,256 - BaseClass -INFO - Password is entered
+2022-11-01 21:10:51,121 - BaseClass -INFO - Test case is passed
