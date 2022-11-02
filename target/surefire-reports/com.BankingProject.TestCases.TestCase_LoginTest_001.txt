@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.BankingProject.TestCases.TestCase_LoginTest_001
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.287 sec - in com.BankingProject.TestCases.TestCase_LoginTest_001
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.351 sec - in com.BankingProject.TestCases.TestCase_LoginTest_001

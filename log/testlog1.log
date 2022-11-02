@@ -363,3 +363,11 @@
 2022-11-01 21:10:50,187 [main] INFO BaseClass - Username is entered
 2022-11-01 21:10:50,256 [main] INFO BaseClass - Password is entered
 2022-11-01 21:10:51,121 [main] INFO BaseClass - Test case is passed
+2022-11-01 21:50:16,712 [main] INFO BaseClass - URL is opened
+2022-11-01 21:50:16,845 [main] INFO BaseClass - Username is entered
+2022-11-01 21:50:16,912 [main] INFO BaseClass - Password is entered
+2022-11-01 21:50:17,813 [main] INFO BaseClass - Test case is passed
+2022-11-02 01:22:57,167 [main] INFO BaseClass - URL is opened
+2022-11-02 01:22:57,271 [main] INFO BaseClass - Username is entered
+2022-11-02 01:22:57,372 [main] INFO BaseClass - Password is entered
+2022-11-02 01:22:58,169 [main] INFO BaseClass - Test case is passed
