@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7221" started-at="2022-10-30T14:39:06 CDT" finished-at="2022-10-30T14:39:13 CDT">
+  <suite name="Default suite" duration-ms="6638" started-at="2022-11-05T21:54:35 CDT" finished-at="2022-11-05T21:54:41 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7221" started-at="2022-10-30T14:39:06 CDT" finished-at="2022-10-30T14:39:13 CDT">
+    <test name="Default test" duration-ms="6638" started-at="2022-11-05T21:54:35 CDT" finished-at="2022-11-05T21:54:41 CDT">
       <class name="com.BankingProject.TestCases.TestCase_LoginTest_001">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.BankingProject.TestCases.TestCase_LoginTest_001@69379752]" name="Setup" is-config="true" duration-ms="3085" started-at="2022-10-30T14:39:06 CDT" finished-at="2022-10-30T14:39:09 CDT">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.BankingProject.TestCases.TestCase_LoginTest_001@69379752]" name="Setup" is-config="true" duration-ms="2890" started-at="2022-11-05T21:54:35 CDT" finished-at="2022-11-05T21:54:38 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.BankingProject.TestCases.TestCase_LoginTest_001@69379752]" name="LoginTest" duration-ms="3445" started-at="2022-10-30T14:39:09 CDT" finished-at="2022-10-30T14:39:12 CDT">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.BankingProject.TestCases.TestCase_LoginTest_001@69379752]" name="LoginTest" duration-ms="3046" started-at="2022-11-05T21:54:38 CDT" finished-at="2022-11-05T21:54:41 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.BankingProject.TestCases.TestCase_LoginTest_001@69379752]" name="TearDown" is-config="true" duration-ms="661" started-at="2022-10-30T14:39:12 CDT" finished-at="2022-10-30T14:39:13 CDT">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.BankingProject.TestCases.TestCase_LoginTest_001@69379752]" name="TearDown" is-config="true" duration-ms="667" started-at="2022-11-05T21:54:41 CDT" finished-at="2022-11-05T21:54:41 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->

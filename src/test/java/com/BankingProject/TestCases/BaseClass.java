@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
@@ -36,8 +37,9 @@ public class BaseClass {
 		 driver  = new ChromeDriver();
 		 driver.manage().window().maximize();
 		 		
-		 logger = Logger.getLogger("BaseClass");
+		 logger = Logger.getLogger(BaseClass.class.getName());
 		 PropertyConfigurator.configure("Log4j.Properties");
+		 logger.setLevel(Level.ALL);
 		 
 	 }
 	

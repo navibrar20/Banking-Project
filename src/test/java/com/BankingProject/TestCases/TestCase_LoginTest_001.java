@@ -31,25 +31,23 @@ public class TestCase_LoginTest_001 extends BaseClass
 		 logger.info("Password is entered");
 		 
 		 lp.clicksubmit();
+		 logger.info("Submit button is clicked");
 		 
-		 System.out.println(driver.getTitle());
+		 //System.out.println(driver.getTitle());
 		 
 		 if (driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		 {
 			 
 			 Assert.assertTrue(true);
-			 logger.info("Test case is passed");
+			 logger.info("Home page appeared");
 		 }
 		 
 		 else
 		 {
-			 capturescreen(driver, "LoginTest");
+			 logger.error("Home page not appeared");
+			 capturescreen(driver, "LoginTest");  
 			 Assert.assertTrue(false);
-			 logger.error("Test case is failed");
-		 }
-		 
-		 
-		
+		 }		
 	 }
 	 
 	 
